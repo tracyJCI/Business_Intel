@@ -1,2 +1,2 @@
-# Business Intelligence/Reporting tasks carried out with Tableau, R and SQL.
+# Business Intelligence/Reporting tasks carried out with Tableau, Power BI and SQL.
 
